@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor">
+  <!-- Delicate botanical stem with leaves -->
+  <path d="M50 95 C 45 70, 55 40, 50 5" stroke="#8AA69A" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+  <!-- Left leaves -->
+  <path d="M49 80 C 35 78, 30 65, 48 68" fill="#8AA69A" fill-opacity="0.25" stroke="#8AA69A" stroke-width="1.2"/>
+  <path d="M51 55 C 33 50, 31 35, 49 42" fill="#8AA69A" fill-opacity="0.25" stroke="#8AA69A" stroke-width="1.2"/>
+  <path d="M50 30 C 38 25, 36 12, 50 18" fill="#8AA69A" fill-opacity="0.25" stroke="#8AA69A" stroke-width="1.2"/>
+  <!-- Right leaves -->
+  <path d="M51 68 C 65 66, 70 53, 52 56" fill="#C9AD70" fill-opacity="0.25" stroke="#C9AD70" stroke-width="1.2"/>
+  <path d="M49 43 C 67 38, 69 23, 51 30" fill="#C9AD70" fill-opacity="0.25" stroke="#C9AD70" stroke-width="1.2"/>
+  <!-- Top delicate bud -->
+  <circle cx="50" cy="5" r="3" fill="#C9AD70" fill-opacity="0.6"/>
+</svg>
